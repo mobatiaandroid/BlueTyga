@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlueTyga.iml" filepath="$PROJECT_DIR$/BlueTyga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlueTyga.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlueTyga.app.iml" />
+    </modules>
+  </component>
+</project>
